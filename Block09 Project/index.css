@@ -1,0 +1,14 @@
+body{background-color: lightblue;}
+
+
+html header{
+    text-align: center;
+}
+
+All ::content {
+    background-color: grey;
+}
+
+a:hover {
+    background-color: yellow;
+}
